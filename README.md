@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,50:14532d,100:0e7490&height=180&section=header&text=Umesh%20Linga&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20Scientist%20%7C%20Clinical%20Genomics%20%7C%20Agentic%20AI&descAlignY=58&descSize=17" alt="Umesh Linga" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,50:14532d,100:0e7490&height=180&section=header&text=Umesh%20Linga&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20Engineer%20%7C%20Clinical%20Genomics%20%7C%20Agentic%20AI&descAlignY=58&descSize=17" alt="Umesh Linga" />
 
-### 🌐 Live Portfolio — animated, scroll it: **[umeshlinga.github.io](https://umeshlinga.github.io)**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=42D3A8&center=true&vCenter=true&width=700&lines=Umesh+Linga+%7C+Bioinformatics+Scientist;Clinical+Genomics+%7C+Variant+Interpretation;NGS+Pipelines+%7C+Nextflow+%7C+WGS+%2F+WES;AI+%2B+Genomics+%7C+Agentic+AI+%7C+RAG" alt="Umesh Linga — Bioinformatics Scientist" />
+### 🌐 **[Live Portfolio — animated, scroll it ↗](https://umeshlinga.github.io)**
 
 </div>
 
 ## 🧬 About Me
 
-Bioinformatics Scientist with **5+ years** in clinical genomics and computational biology. I build and run the variant-analysis pipelines behind whole-exome, targeted-panel, and whole-genome sequencing — from raw reads through calling, annotation against ClinVar / HGMD / gnomAD, and the structured reports that put prioritized variants in front of the people making clinical decisions.
+Bioinformatics Engineer with **5+ years** in clinical genomics and computational biology. I build and run the variant-analysis pipelines behind whole-exome, targeted-panel, and whole-genome sequencing — from raw reads through calling, annotation against ClinVar / HGMD / gnomAD, and the structured reports that put prioritized variants in front of the people making clinical decisions.
 
 - 🔬 **Clinical NGS pipelines** — WES, targeted panels, WGS; QC gates at every stage so compromised libraries never reach interpretation
 - 🧪 **Variant interpretation** — ACMG framework (pathogenic / likely pathogenic / VUS / benign), ClinVar evidence, causal-variant prioritization for genetic disorders
@@ -52,4 +50,4 @@ Bioinformatics Scientist with **5+ years** in clinical genomics and computationa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh-linga-aa8321293/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umeshlinga)
 
-📍 Indianapolis, IN · Open to bioinformatics / clinical genomics roles across the US
+Open to bioinformatics / clinical genomics roles across the US
